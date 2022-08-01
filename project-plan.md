@@ -9,11 +9,13 @@
     * Printing
     * Oporators
     * Strings and string manipulation
-    * Conditionals
     * List and basic data structures
+    * Conditionals
     * Loops
     * Dictionaries, sets and tupples
-    * Operation on the above
     * Functions
+    * Lambda functions
+    * Working with files
+    * Operation on the above
     * Classes
     * OOP (Object oriented design and programming)
