@@ -16,6 +16,12 @@ while counter <= 100:
 print(f"Sum of all even numbers from 1 to {n} is: {sum}")
 
 
+# Exerceise
+"""
+Write a program to get the sum of all odd numbers from 1 to n
+where n is an integer and n is from a user input
+"""
+
 
 
 
