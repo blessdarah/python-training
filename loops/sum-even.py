@@ -21,7 +21,14 @@ print(f"Sum of all even numbers from 1 to {n} is: {sum}")
 Write a program to get the sum of all odd numbers from 1 to n
 where n is an integer and n is from a user input
 """
+print("printing the sum of all odd numbers from 1 to n")
 
+odd_sum = 0
 
+for n in range(1, n):
+    if n % 2 == 1:
+        odd_sum += n
+
+print(f"Odd sum is: {odd_sum}")
 
 

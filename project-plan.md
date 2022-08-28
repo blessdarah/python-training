@@ -17,5 +17,5 @@
     * Lambda functions
     * Working with files
     * Operation on the above
-    * Classes
     * OOP (Object oriented design and programming)
+    * Classes

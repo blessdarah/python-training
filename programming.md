@@ -16,3 +16,17 @@
 * Evaluated before executed by a compiler.
 * Ensures that it adhers to program design and structure.
 
+
+
+## Conditionals
+* check Conditionals
+if a condition works then we can do something
+if not workings we can do another (else do another thing)
+check if something is true or false
+skip sections of our code
+
+if(backfrom school):
+    dish your food
+    end;
+    
+your not not back from school

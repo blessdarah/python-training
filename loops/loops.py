@@ -30,6 +30,7 @@ for index, n  in enumerate(list_of_numbers):
 
 
 
+
 # sum 1 to 100 (first 100 numbers)
 sum = 0
 counter = 1

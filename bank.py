@@ -87,6 +87,8 @@ def start():
             break
 
 
-
+"""
+Start the application here
+"""
 start()
 
