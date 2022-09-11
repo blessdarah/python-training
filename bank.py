@@ -11,7 +11,7 @@ Functions:
 from datetime import date
 
 class Account:
-    def __init__(self, initial_amount=0.00) -> None:
+    def __init__(self, initial_amount=0.00):
        self.balance = initial_amount
        self.name = ""
 
