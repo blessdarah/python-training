@@ -25,9 +25,9 @@ class Animal:
 # Inheritance
 class Dog(Animal):
     # name, legs, breed
-    def __init__(self, name, breed):
-        super().__init__(4, name)
-        self.breed = breed
+    def __init__(self, _name, _breed):
+        super().__init__(4, _name)
+        self.breed = _breed
         
     def talk(self):
         print(f"{self.name} says whoof whoof!!!")
@@ -40,6 +40,7 @@ class Duck(Animal):
 
     def talk(self):
         print("Quack-quack")
+
 
 animal = Animal(0, "snake")
 dog = Dog("skipper", "bulldog")
