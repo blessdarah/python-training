@@ -29,7 +29,7 @@ movies =[]
 directors = []
 
 class Movie:
-    def __init__(self, title, director, genre="action", synopsis="none"):
+    def __init__(self, title, director, genre="action", synopsis="none"): # constructor
         self.title = title
         self.director = director
         self.genre = genre
@@ -41,7 +41,7 @@ class Movie:
         
 
 
-class SingleMovie(Movie):
+class SingleMovie(Movie): # Move (parent), SingleMovie (child) => SingleMovie "is a" Movie (Super class -> super)
     def __init__(self, title, director, genre="action", synopsis="none"):
         super().__init__(title, director, genre, synopsis)
 
