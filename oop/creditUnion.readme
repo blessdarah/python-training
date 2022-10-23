@@ -1,0 +1,12 @@
+# new features
+
+* Add instructions to create a new account
+* Prompt user to provide `account name` and `number`, `pin`(optional)
+* Save account name and number in a file
+
+
+Case user wants to save and widthdraw
+* user should be prompted to provide valid account name and number
+* Validate these above values to check if there are included in the account files
+* continue with transaction
+* Otherwise, cancel transaction 
